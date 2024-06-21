@@ -1,5 +1,5 @@
 # Weather clothes Telegram bot built with Python/aiogram
-A Telegram bot that recommends clothing based on the weather in user's city.
+A Telegram bot that gives clothing recommendations based on the weather in user's city.
 
 Available in Russian language only (for now).
 
