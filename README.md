@@ -1,4 +1,4 @@
-# Weather clothes Telegram bot built with Python/aiogram
+# Climate Outfit Telegram bot built with Python/aiogram
 A Telegram bot that gives clothing recommendations based on the weather in user's city.
 
 Available in Russian language only (for now).
@@ -15,6 +15,7 @@ Bot link: https://t.me/chooseyourclothes_bot
 * enter a city and get a detailed forecast 
 * clothing recommendations depending on the forecast
 * local sunrise & sunset time for every city
+* 'feels like' temp
 
 # How to use?
 1. Go to https://t.me/chooseyourclothes_bot
@@ -22,7 +23,6 @@ Bot link: https://t.me/chooseyourclothes_bot
 3. Send your city name in the chat, and you'll get a forecast and clothing recommendations o(〃＾▽＾〃)o
 
 # To Do List
-* add 'feels as' temp
 * add forecast for tomorrow
 * add if rain starts soon
 * correct recommendations (values, too long)
